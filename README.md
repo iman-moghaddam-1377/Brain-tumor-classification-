@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
